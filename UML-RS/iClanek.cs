@@ -8,7 +8,7 @@ namespace UMLRS{
         void Smazat();
         void Editovat();
         
-        String toString();    
+           
         
     }
 }

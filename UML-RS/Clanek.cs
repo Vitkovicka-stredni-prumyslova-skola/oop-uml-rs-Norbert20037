@@ -16,6 +16,10 @@ namespace UMLRS{
             this.textClanku = textClanku;
         }
 
+        //Properties
+        public Autor AutorClanku{
+            get{return this.autorClanku; } 
+        }
         public void Vytvorit(){
                 Console.WriteLine("Članek vytvořen...");
         }
@@ -26,7 +30,7 @@ namespace UMLRS{
             Console.WriteLine("Članek upraven...");
         }
         
-        public String toString(){
+        public override String ToString(){
             return "null";
         } 
     }

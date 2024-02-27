@@ -1,0 +1,14 @@
+C:\Users\MartinKapcala\OneDrive - Vítkovická střední průmyslová škola\Dokumenty\Programování\OOP\OOP-UML-RS\UML-RS\bin\Debug\net7.0\UML-RS.exe
+C:\Users\MartinKapcala\OneDrive - Vítkovická střední průmyslová škola\Dokumenty\Programování\OOP\OOP-UML-RS\UML-RS\bin\Debug\net7.0\UML-RS.deps.json
+C:\Users\MartinKapcala\OneDrive - Vítkovická střední průmyslová škola\Dokumenty\Programování\OOP\OOP-UML-RS\UML-RS\bin\Debug\net7.0\UML-RS.runtimeconfig.json
+C:\Users\MartinKapcala\OneDrive - Vítkovická střední průmyslová škola\Dokumenty\Programování\OOP\OOP-UML-RS\UML-RS\bin\Debug\net7.0\UML-RS.dll
+C:\Users\MartinKapcala\OneDrive - Vítkovická střední průmyslová škola\Dokumenty\Programování\OOP\OOP-UML-RS\UML-RS\bin\Debug\net7.0\UML-RS.pdb
+C:\Users\MartinKapcala\OneDrive - Vítkovická střední průmyslová škola\Dokumenty\Programování\OOP\OOP-UML-RS\UML-RS\obj\Debug\net7.0\UML-RS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MartinKapcala\OneDrive - Vítkovická střední průmyslová škola\Dokumenty\Programování\OOP\OOP-UML-RS\UML-RS\obj\Debug\net7.0\UML-RS.AssemblyInfoInputs.cache
+C:\Users\MartinKapcala\OneDrive - Vítkovická střední průmyslová škola\Dokumenty\Programování\OOP\OOP-UML-RS\UML-RS\obj\Debug\net7.0\UML-RS.AssemblyInfo.cs
+C:\Users\MartinKapcala\OneDrive - Vítkovická střední průmyslová škola\Dokumenty\Programování\OOP\OOP-UML-RS\UML-RS\obj\Debug\net7.0\UML-RS.csproj.CoreCompileInputs.cache
+C:\Users\MartinKapcala\OneDrive - Vítkovická střední průmyslová škola\Dokumenty\Programování\OOP\OOP-UML-RS\UML-RS\obj\Debug\net7.0\UML-RS.dll
+C:\Users\MartinKapcala\OneDrive - Vítkovická střední průmyslová škola\Dokumenty\Programování\OOP\OOP-UML-RS\UML-RS\obj\Debug\net7.0\refint\UML-RS.dll
+C:\Users\MartinKapcala\OneDrive - Vítkovická střední průmyslová škola\Dokumenty\Programování\OOP\OOP-UML-RS\UML-RS\obj\Debug\net7.0\UML-RS.pdb
+C:\Users\MartinKapcala\OneDrive - Vítkovická střední průmyslová škola\Dokumenty\Programování\OOP\OOP-UML-RS\UML-RS\obj\Debug\net7.0\UML-RS.genruntimeconfig.cache
+C:\Users\MartinKapcala\OneDrive - Vítkovická střední průmyslová škola\Dokumenty\Programování\OOP\OOP-UML-RS\UML-RS\obj\Debug\net7.0\ref\UML-RS.dll

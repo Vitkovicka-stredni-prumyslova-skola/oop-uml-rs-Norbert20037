@@ -7,6 +7,14 @@ namespace UMLRS{
         String jmeno;
         String email;
 
+        public Autor (string prijmeni){
+            this.prijmeni = prijmeni;
+            this.jmeno = "nAn";
+            this.email = "nAn";
+            this.nick = "nAn";
+            this.idAutora = 1;
+        }
+
         public int IdAutora{
             get{return this.idAutora;}
         }
