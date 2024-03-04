@@ -31,7 +31,10 @@ namespace UMLRS{
         }
         
         public override String ToString(){
-            return "null";
-        } 
+            return ($"\n{nadpisClanku}\n{prefixClanku}\n{textClanku}\n {autorClanku}");
+        }
+
+
+     
     }
 }
