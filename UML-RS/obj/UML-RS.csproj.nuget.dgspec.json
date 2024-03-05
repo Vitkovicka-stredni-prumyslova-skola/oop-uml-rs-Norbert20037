@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\NorbertMarek\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\oop-uml-rs-Norbert20037\\UML-RS\\UML-RS.csproj": {}
+    "C:\\Users\\NorbertMarek\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\oop-uml-rs-Norbert20037\\UML-RS\\UML-RS.csproj": {}
   },
   "projects": {
-    "c:\\Users\\NorbertMarek\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\oop-uml-rs-Norbert20037\\UML-RS\\UML-RS.csproj": {
+    "C:\\Users\\NorbertMarek\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\oop-uml-rs-Norbert20037\\UML-RS\\UML-RS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\NorbertMarek\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\oop-uml-rs-Norbert20037\\UML-RS\\UML-RS.csproj",
+        "projectUniqueName": "C:\\Users\\NorbertMarek\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\oop-uml-rs-Norbert20037\\UML-RS\\UML-RS.csproj",
         "projectName": "UML-RS",
-        "projectPath": "c:\\Users\\NorbertMarek\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\oop-uml-rs-Norbert20037\\UML-RS\\UML-RS.csproj",
+        "projectPath": "C:\\Users\\NorbertMarek\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\oop-uml-rs-Norbert20037\\UML-RS\\UML-RS.csproj",
         "packagesPath": "C:\\Users\\NorbertMarek\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\NorbertMarek\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\oop-uml-rs-Norbert20037\\UML-RS\\obj\\",
+        "outputPath": "C:\\Users\\NorbertMarek\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\oop-uml-rs-Norbert20037\\UML-RS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NorbertMarek\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,3 +1,5 @@
+using System.Threading.Channels;
+
 namespace UMLRS{
     class Autor {
 
@@ -6,7 +8,7 @@ namespace UMLRS{
         String prijmeni;
         String jmeno;
         String email;
-
+        Bonus bonus = new Bonus();      
         public Autor (string prijmeni){
             this.prijmeni = prijmeni;
             this.jmeno = "nAn";
